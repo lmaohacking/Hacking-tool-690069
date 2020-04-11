@@ -23,6 +23,7 @@ XSStrike
 Dork - Google Dorks Passive Vulnerability Auditor
 Scan A server's Users
 Crips
+
 Password Attacks:
 Cupp
 Ncrack
@@ -30,6 +31,7 @@ Wireless Testing:
 reaver
 pixiewps
 Fluxion
+
 Exploitation Tools:
 ATSCAN
 sqlmap
@@ -37,6 +39,7 @@ Shellnoob
 commix
 FTP Auto Bypass
 jboss-autopwn
+
 Sniffing & Spoofing:
 Setoolkit
 SSLtrip
@@ -55,6 +58,7 @@ Joomla! 1.5 - 3.4.5 remote code execution
 Vbulletin 5.X remote code execution
 BruteX - Automatically brute force all services running on a target
 Arachni - Web Application Security Scanner Framework
+
 Private Web Hacking:
 Get all websites
 Get joomla websites
@@ -68,10 +72,14 @@ Ports Scan (range of ports)
 ports Scan (common ports)
 Get server Info
 Bypass Cloudflare
+
 Post Exploitation:
 Shell Checker
 POET
 Weeman
+
+
+And much more.............
 
 
 Installation in Linux :
