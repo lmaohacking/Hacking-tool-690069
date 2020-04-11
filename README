@@ -1,18 +1,96 @@
-Linux kernel
-============
+All in one professional hacking tool installer kit!!!
 
-There are several guides for kernel developers and users. These guides can
-be rendered in a number of formats, like HTML and PDF. Please read
-Documentation/admin-guide/README.rst first.
+Menu :
+Information Gathering
+Password Attacks
+Wireless Testing
+Exploitation Tools
+Sniffing & Spoofing
+Web Hacking
+Private Web Hacking
+Post Exploitation
+Install The HACKTRONIAN
+Information Gathering:
+Nmap
+Setoolkit
+Port Scanning
+Host To IP
+wordpress user
+CMS scanner
+XSStrike
+Dork - Google Dorks Passive Vulnerability Auditor
+Scan A server's Users
+Crips
+Password Attacks:
+Cupp
+Ncrack
+Wireless Testing:
+reaver
+pixiewps
+Fluxion
+Exploitation Tools:
+ATSCAN
+sqlmap
+Shellnoob
+commix
+FTP Auto Bypass
+jboss-autopwn
+Sniffing & Spoofing:
+Setoolkit
+SSLtrip
+pyPISHER
+SMTP Mailer
+Web Hacking:
+Drupal Hacking
+Inurlbr
+Wordpress & Joomla Scanner
+Gravity Form Scanner
+File Upload Checker
+Wordpress Exploit Scanner
+Wordpress Plugins Scanner
+Shell and Directory Finder
+Joomla! 1.5 - 3.4.5 remote code execution
+Vbulletin 5.X remote code execution
+BruteX - Automatically brute force all services running on a target
+Arachni - Web Application Security Scanner Framework
+Private Web Hacking:
+Get all websites
+Get joomla websites
+Get wordpress websites
+Control Panel Finder
+Zip Files Finder
+Upload File Finder
+Get server users
+SQli Scanner
+Ports Scan (range of ports)
+ports Scan (common ports)
+Get server Info
+Bypass Cloudflare
+Post Exploitation:
+Shell Checker
+POET
+Weeman
+Installation in Linux :
 
-In order to build the documentation, use ``make htmldocs`` or
-``make pdfdocs``.  The formatted documentation can also be read online at:
+git clone https://github.com/erwincatt/hackingtool.git
 
-    https://www.kernel.org/doc/html/latest/
+cd hacktronian
 
-There are various text files in the Documentation/ subdirectory,
-several of them using the Restructured Text markup notation.
+chmod 777 install.sh
 
-Please read the Documentation/process/changes.rst file, as it contains the
-requirements for building and running the kernel, and information about
-the problems which may result by upgrading your kernel.
+./install.sh
+
+That's it.. you can execute tool by typing hacktronian
+
+Installation in Android :
+Open Termux
+
+pkg install git
+
+git clone https://github.com/erwincatt/hackingtool.git
+
+cd hacktronian
+
+chmod 777 install.sh
+
+./install.sh
