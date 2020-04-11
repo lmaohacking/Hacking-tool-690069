@@ -84,7 +84,7 @@ And much more.............
 
 Installation in Linux :
 
-git clone https://github.com/erwincatt/hackingtool.git
+git clone https://github.com/erwincatt/hackingtool
 
 cd hackingtool
 
@@ -99,7 +99,7 @@ Open Termux
 
 pkg install git
 
-git clone https://github.com/erwincatt/hackingtool.git
+git clone https://github.com/erwincatt/hackingtool
 
 cd hackingtool
 
