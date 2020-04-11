@@ -92,7 +92,7 @@ chmod 777 install.sh
 
 ./install.sh
 
-That's it.. you can execute tool by typing hacktronian
+That's it..
 
 Installation in Android :
 Open Termux
