@@ -1,5 +1,7 @@
 All in one professional hacking tool installer kit!!!
 
+If you know how to use it and you are enough smart then you can hack anything.. like facebook, Instagram, websites, anything....
+
 Menu :
 Information Gathering
 Password Attacks
@@ -70,6 +72,8 @@ Post Exploitation:
 Shell Checker
 POET
 Weeman
+
+
 Installation in Linux :
 
 git clone https://github.com/erwincatt/hackingtool.git
