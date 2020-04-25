@@ -1,8 +1,10 @@
-All in one professional hacking tool installer kit!!!
+# All in one professional hacking tool installer kit!!!
 
-If you know how to use it and you are enough smart then you can hack anything.. like facebook, Instagram, websites, anything....
+### If you know how to use it and you are enough smart then you can hack anything.. like facebook, Instagram, websites, anything....
 
-Menu :
+## 🎉 Tutorials Inside... 🎉
+
+### Menu :
 Information Gathering
 Password Attacks
 Wireless Testing
@@ -12,7 +14,7 @@ Web Hacking
 Private Web Hacking
 Post Exploitation
 
-Information Gathering:
+### Information Gathering:
 Nmap
 Setoolkit
 Port Scanning
@@ -24,7 +26,7 @@ Dork - Google Dorks Passive Vulnerability Auditor
 Scan A server's Users
 Crips
 
-Password Attacks:
+### Password Attacks:
 Cupp
 Ncrack
 Wireless Testing:
@@ -34,7 +36,7 @@ Fluxion
 asscrack-nigger
 aircrack-ng
 
-Exploitation Tools:
+### Exploitation Tools:
 ATSCAN
 sqlmap
 Shellnoob
@@ -43,7 +45,7 @@ FTP Auto Bypass
 jboss-autopwn
 SS7 exploit
 
-Sniffing & Spoofing:
+### Sniffing & Spoofing:
 Setoolkit
 SSLtrip
 pyPISHER
@@ -62,7 +64,7 @@ Vbulletin 5.X remote code execution
 BruteX - Automatically brute force all services running on a target
 Arachni - Web Application Security Scanner Framework
 
-Private Web Hacking:
+### Private Web Hacking:
 Get all websites
 Get joomla websites
 Get wordpress websites
@@ -76,7 +78,7 @@ ports Scan (common ports)
 Get server Info
 Bypass Cloudflare
 
-Post Exploitation:
+### Post Exploitation:
 Shell Checker
 POET
 Weeman
@@ -85,7 +87,7 @@ Weeman
 And much more.............
 
 
-Installation in Linux :
+## Installation in Linux :
 
 git clone https://github.com/erwincatt/hackingtool
 
@@ -97,7 +99,7 @@ chmod 777 install.sh
 
 That's it..
 
-Installation in Android :
+## Installation in Android :
 Open Termux
 
 pkg install git
