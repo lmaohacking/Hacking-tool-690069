@@ -89,25 +89,25 @@ And much more.............
 
 ## Installation in Linux :
 
-git clone https://github.com/erwincatt/hackingtool
+`git clone https://github.com/erwincatt/hackingtool`
 
-cd hackingtool
+`cd hackingtool`
 
-chmod 777 install.sh
+`chmod 777 install.sh`
 
-./install.sh
+`./install.sh`
 
 That's it..
 
 ## Installation in Android :
 Open Termux
 
-pkg install git
+`pkg install git`
 
-git clone https://github.com/erwincatt/hackingtool
+`git clone https://github.com/erwincatt/hackingtool`
 
-cd hackingtool
+`cd hackingtool`
 
-chmod 777 install.sh
+`chmod 777 install.sh`
 
-./install.sh
+`./install.sh`
