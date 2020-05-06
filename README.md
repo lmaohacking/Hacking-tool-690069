@@ -102,6 +102,8 @@ That's it..
 ## Installation in Android :
 Open Termux
 
+`termux-setup-storage`
+
 `pkg install git`
 
 `git clone https://github.com/erwincatt/hackingtool`
