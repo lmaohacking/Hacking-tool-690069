@@ -13,7 +13,7 @@
 + Web Hacking
 + Private Web Hacking
 + Post Exploitation
-
++ Carding
 ### Information Gathering:
 + Nmap
 + Setoolkit
@@ -51,20 +51,25 @@
 + pyPISHER
 + SMTP Mailer
 + Web Hacking:
-+ Drupal Hacking
-+ Inurlbr
-+ Wordpress & Joomla Scanner
-+ Gravity Form Scanner
-+ File Upload Checker
-+ Wordpress Exploit Scanner
-+ Wordpress Plugins Scanner
-+ Shell and Directory Finder
-+ Joomla! 1.5 - 3.4.5 remote code execution
-+ Vbulletin 5.X remote code execution
-+ BruteX - Automatically brute force all services running on a target
-+ Arachni - Web Application Security Scanner Framework
+  + Drupal Hacking
+  + Inurlbr
+  + Wordpress & Joomla Scanner
+  + Gravity Form Scanner
+  + File Upload Checker
+  + Wordpress Themes Scanner
+  + Wordpress Plugins Scanner
+  + Shell and Directory Finder
+  + Joomla! 1.5 - 3.4.5 remote code execution
+  + Vbulletin 5.X remote code execution
+  + BruteX - Automatically brute force all services running on a target
+  + Arachni - Web Application Security Scanner Framework
 
 ### Private Web Hacking:
++ Backdoor
+  + Hmei7 Priv8
+  + B374K (Final Mods)
+  + IndoXploit V3
+  + Marijuana Shell (Mods 400 Bypass)
 + Get all websites
 + Get joomla websites
 + Get wordpress websites
@@ -77,39 +82,73 @@
 + ports Scan (common ports)
 + Get server Info
 + Bypass Cloudflare
++ Acunetix
++ ZAP
++ Joomla CSRF
++ Git Dotdir Scanner
 
 ### Post Exploitation:
 + Shell Checker
 + POET
 + Weeman
++ Wordpress Brute xmlrpc.php
+
+### Carding
+* Mailer Multi Threads
+* Sql Dump Mail List
+* Paypal True Login
+  * Scampages
+  * Letter Bypass Inbox
+* Apple True Login
+  * Scampages
+  * Letter Bypass Inbox
 
 
 ## 🎁And much more.........🎁
 
 
-## Installation in Linux :
+## Installation in Kali Linux :
 
-`git clone https://github.com/erwincatt/hackingtool`
+```
+git clone https://github.com/erwincatt/hackingtool
+```
 
-`cd hackingtool`
+```sh
+cd hackingtool
+```
 
-`chmod 777 install.sh`
+```sh
+chmod 777 install.sh
+```
 
-`./install.sh`
+```sh
+./install.sh
+```
 
 That's it..
 
-## Installation in Android :
+## Installation in Android Termux :
 Open Termux
 
-`termux-setup-storage`
+```sh
+termux-setup-storage
+```
 
-`pkg install git`
+```sh
+pkg install git
+```
+```sh
+git clone https://github.com/erwincatt/hackingtool
+```
 
-`git clone https://github.com/erwincatt/hackingtool`
+```sh
+cd hackingtool
+```
 
-`cd hackingtool`
+```sh
+chmod 777 install.sh
+```
 
-`chmod 777 install.sh`
-
-`./install.sh`
+```sh
+./install.sh
+```
