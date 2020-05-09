@@ -14,7 +14,13 @@
 + Private Web Hacking
 + Post Exploitation
 + Carding
+
 ### Information Gathering:
++ SherlockHomies
++ Whois
++ IP Reverse
++ Subdomain Finder
++ SayCheese
 + Nmap
 + Setoolkit
 + Port Scanning
@@ -29,13 +35,21 @@
 ### Password Attacks:
 + Cupp
 + Ncrack
++ Hash Cat
++ Wordpress Password Quick Hash
++ Hash Analyzer
 + Wireless Testing:
-+ reaver
-+ pixiewps
-+ Fluxion
-+ asscrack-nigger
-+ aircrack-ng
-
+  + reaver
+  + pixiewps
+  + Fluxion
+  + asscrack-nigger
+  + Aircrack-ng
+  + Chain & Abel
+  + Wlan666mon
+  + Wifipisher
+  + ARP Poison
+  + WifiCutter
+  + KickThemOut
 ### Exploitation Tools:
 + ATSCAN
 + sqlmap
@@ -48,10 +62,12 @@
 + Root Linux Web Kernel (3.x - 5.7)
 
 ### Sniffing & Spoofing:
++ Tshark
++ Burpsuite Enterprise Pro
 + Setoolkit
 + SSLtrip
++ SSLStripper
 + pyPISHER
-+ SMTP Mailer
 + Web Hacking:
   + Drupal Hacking
   + Inurlbr
@@ -92,7 +108,9 @@
 + SMTP Crack
 + Cpanel Crack
 + WHM Crack
-
++ HeartBleed
++ SQLiv
++ sqlDump
 
 ### Post Exploitation:
 + Shell Checker
