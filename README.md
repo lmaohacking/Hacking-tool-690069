@@ -4,6 +4,13 @@
 
 ### 🎉 Tutorials Inside... 🎉
 
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![](https://img.shields.io/badge/codefactor-A+-green.svg)]()
+[![](https://img.shields.io/badge/sponsor-NASA-blue.svg)]()
+[![License](https://img.shields.io/badge/sponsor-IBM-blue.svg)]()
+[![License](https://img.shields.io/badge/sponsor-Google-lime.svg)]()
+[![License](https://img.shields.io/badge/sponsor-ExploitDB-yellow.svg)]()
+[![License](https://img.shields.io/badge/sponsor-ZoneH-red.svg)]()
 ## Menu :
 + Information Gathering
 + Password Attacks
