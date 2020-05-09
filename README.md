@@ -102,6 +102,15 @@
 * Apple True Login
   * Scampages
   * Letter Bypass Inbox
+* RDP carding and cracking
+  * Amazon Web Services (AWS)
+  * Microsoft Azure
+  * Google cloud
+* All account cracking tools
+  * Netflix
+  * Amazon Prime
+  * Premium VPNs
+  * and much more!! 🤑
 
 
 ## 🎁And much more.........🎁
