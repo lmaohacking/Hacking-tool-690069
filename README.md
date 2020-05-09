@@ -4,6 +4,21 @@
 
 ### 🎉 Tutorials Inside... 🎉
 
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![](https://img.shields.io/badge/codefactor-A+-green.svg)]()
+
+[![](https://img.shields.io/badge/sponsor-NASA-blue.svg)](https://nasa.gov)
+[![](https://img.shields.io/badge/sponsor-IBM-blue.svg)]()
+[![](https://img.shields.io/badge/sponsor-Google-lime.svg)](https://google.com)
+[![](https://img.shields.io/badge/sponsor-ExploitDB-yellow.svg)]()
+[![](https://img.shields.io/badge/sponsor-ZoneH-red.svg)]()
+[![](https://img.shields.io/badge/sponsor-DefacerID-red.svg)]()
+
+## Demonstration Termux Root
+[![](IMG_20200509_154219.jpg)]()
+[![](IMG_20200509_154206.jpg)]()
+[![](IMG_20200509_154153.jpg)]()
+
 ## Menu :
 + Information Gathering
 + Password Attacks
@@ -14,7 +29,13 @@
 + Private Web Hacking
 + Post Exploitation
 + Carding
+
 ### Information Gathering:
++ SherlockHomies
++ Whois
++ IP Reverse
++ Subdomain Finder
++ SayCheese
 + Nmap
 + Setoolkit
 + Port Scanning
@@ -29,13 +50,21 @@
 ### Password Attacks:
 + Cupp
 + Ncrack
++ Hash Cat
++ Wordpress Password Quick Hash
++ Hash Analyzer
 + Wireless Testing:
-+ reaver
-+ pixiewps
-+ Fluxion
-+ asscrack-nigger
-+ aircrack-ng
-
+  + reaver
+  + pixiewps
+  + Fluxion
+  + asscrack-nigger
+  + Aircrack-ng
+  + Chain & Abel
+  + Wlan666mon
+  + Wifipisher
+  + ARP Poison
+  + WifiCutter
+  + KickThemOut
 ### Exploitation Tools:
 + ATSCAN
 + sqlmap
@@ -44,12 +73,16 @@
 + FTP Auto Bypass
 + jboss-autopwn
 + SS7 exploit
++ Termux Root (Nougat, Marsmellow, Oreo, Pie, Jelly Bean)
++ Root Linux Web Kernel (3.x - 5.7)
 
 ### Sniffing & Spoofing:
++ Tshark
++ Burpsuite Enterprise Pro
 + Setoolkit
 + SSLtrip
++ SSLStripper
 + pyPISHER
-+ SMTP Mailer
 + Web Hacking:
   + Drupal Hacking
   + Inurlbr
@@ -86,6 +119,13 @@
 + ZAP
 + Joomla CSRF
 + Git Dotdir Scanner
++ Auto Domain Hijack
++ SMTP Crack
++ Cpanel Crack
++ WHM Crack
++ HeartBleed
++ SQLiv
++ sqlDump
 
 ### Post Exploitation:
 + Shell Checker
@@ -109,6 +149,7 @@
 * All account cracking tools
   * Netflix
   * Amazon Prime
+  * Spotify
   * Premium VPNs
   * and much more!! 🤑
 
