@@ -44,6 +44,8 @@
 + FTP Auto Bypass
 + jboss-autopwn
 + SS7 exploit
++ Termux Root (Nougat, Marsmellow, Oreo, Pie, Jelly Bean)
++ Root Linux Web Kernel (3.x - 5.7)
 
 ### Sniffing & Spoofing:
 + Setoolkit
@@ -86,6 +88,11 @@
 + ZAP
 + Joomla CSRF
 + Git Dotdir Scanner
++ Auto Domain Hijack
++ SMTP Crack
++ Cpanel Crack
++ WHM Crack
+
 
 ### Post Exploitation:
 + Shell Checker
@@ -109,6 +116,7 @@
 * All account cracking tools
   * Netflix
   * Amazon Prime
+  * Spotify
   * Premium VPNs
   * and much more!! 🤑
 
