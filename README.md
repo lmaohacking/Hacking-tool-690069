@@ -14,6 +14,11 @@
 [![](https://img.shields.io/badge/sponsor-ZoneH-red.svg)]()
 [![](https://img.shields.io/badge/sponsor-DefacerID-red.svg)]()
 
+## Demonstration Termux Root
+[![](IMG_20200509_154219.jpg)]()
+[![](IMG_20200509_154206.jpg)]()
+[![](IMG_20200509_154153.jpg)]()
+
 ## Menu :
 + Information Gathering
 + Password Attacks
