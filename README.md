@@ -6,11 +6,14 @@
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![](https://img.shields.io/badge/codefactor-A+-green.svg)]()
-[![](https://img.shields.io/badge/sponsor-NASA-blue.svg)]()
-[![License](https://img.shields.io/badge/sponsor-IBM-blue.svg)]()
-[![License](https://img.shields.io/badge/sponsor-Google-lime.svg)]()
-[![License](https://img.shields.io/badge/sponsor-ExploitDB-yellow.svg)]()
-[![License](https://img.shields.io/badge/sponsor-ZoneH-red.svg)]()
+
+[![](https://img.shields.io/badge/sponsor-NASA-blue.svg)](https://nasa.gov)
+[![](https://img.shields.io/badge/sponsor-IBM-blue.svg)]()
+[![](https://img.shields.io/badge/sponsor-Google-lime.svg)](https://google.com)
+[![](https://img.shields.io/badge/sponsor-ExploitDB-yellow.svg)]()
+[![](https://img.shields.io/badge/sponsor-ZoneH-red.svg)]()
+[![](https://img.shields.io/badge/sponsor-DefacerID-red.svg)]()
+
 ## Menu :
 + Information Gathering
 + Password Attacks
