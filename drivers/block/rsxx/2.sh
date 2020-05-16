@@ -2,9 +2,9 @@
 
 
 # Super MEGA Pro level hacking toolkit https://github.com/erwincatt/hackingtool
-# Short link: https://nxnt.link/hack
+# Short link: https://nxnt.link/hack and https://is.gd/aiohack
 # Mirror available at https://notabug.org/erwincatt/hackingtool
-# Mirror short link: https://nxnt.link/hack1
+# Mirror short link: https://nxnt.link/hack1 and https://is.gd/aiohack1
 
 
 # This fix script is now on git!
