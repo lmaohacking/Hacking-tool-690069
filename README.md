@@ -160,11 +160,11 @@
 ## Installation in Kali Linux :
 
 ```
-git clone https://github.com/erwincatt/hackingtool
+git clone https://github.com/lmaohacking/Hacking-tool-690069
 ```
 
 ```sh
-cd hackingtool
+cd Hacking-tool-690069
 ```
 
 ```sh
@@ -188,11 +188,11 @@ termux-setup-storage
 pkg install git
 ```
 ```sh
-git clone https://github.com/erwincatt/hackingtool
+git clone https://github.com/lmaohacking/Hacking-tool-690069
 ```
 
 ```sh
-cd hackingtool
+cd Hacking-tool-690069
 ```
 
 ```sh
